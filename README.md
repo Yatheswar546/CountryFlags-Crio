@@ -6,7 +6,7 @@ A simple React application that displays a grid of country flags along with thei
 
 ## 🚀 Live Demo
 
-(Will be added after deployment)
+https://country-flags-crio-alpha.vercel.app/
 
 ---
 
